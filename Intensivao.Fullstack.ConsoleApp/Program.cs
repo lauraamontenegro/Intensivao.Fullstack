@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Intensivao.Fullstack.ConsoleApp.ExerciciosLogica;
+
+Exercicio1.Calcular();
